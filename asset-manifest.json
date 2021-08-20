@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-figma-task/static/css/main.1cb1ed3f.chunk.css",
+    "main.js": "/react-figma-task/static/js/main.f719364f.chunk.js",
+    "main.js.map": "/react-figma-task/static/js/main.f719364f.chunk.js.map",
+    "runtime-main.js": "/react-figma-task/static/js/runtime-main.6256aded.js",
+    "runtime-main.js.map": "/react-figma-task/static/js/runtime-main.6256aded.js.map",
+    "static/css/2.4be38407.chunk.css": "/react-figma-task/static/css/2.4be38407.chunk.css",
+    "static/js/2.4e8c87da.chunk.js": "/react-figma-task/static/js/2.4e8c87da.chunk.js",
+    "static/js/2.4e8c87da.chunk.js.map": "/react-figma-task/static/js/2.4e8c87da.chunk.js.map",
+    "index.html": "/react-figma-task/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/react-figma-task/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.1cb1ed3f.chunk.css.map": "/react-figma-task/static/css/main.1cb1ed3f.chunk.css.map",
+    "static/js/2.4e8c87da.chunk.js.LICENSE.txt": "/react-figma-task/static/js/2.4e8c87da.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-figma-task/static/media/download.ce026387.png",
+    "static/media/fliqaindia.42cb3412.png": "/react-figma-task/static/media/fliqaindia.42cb3412.png",
+    "static/media/img0.063dca5a.png": "/react-figma-task/static/media/img0.063dca5a.png",
+    "static/media/img1.7590b3e4.png": "/react-figma-task/static/media/img1.7590b3e4.png",
+    "static/media/img2.cd5be0d7.png": "/react-figma-task/static/media/img2.cd5be0d7.png",
+    "static/media/img3.66830ed4.png": "/react-figma-task/static/media/img3.66830ed4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6256aded.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.4e8c87da.chunk.js",
+    "static/css/main.1cb1ed3f.chunk.css",
+    "static/js/main.f719364f.chunk.js"
+  ]
+}
